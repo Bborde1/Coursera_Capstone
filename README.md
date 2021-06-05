@@ -1,2 +1,2 @@
 # Coursera_Capstone
-Repo for the IBM Data Science Professional Cert. Capstone Project
+Personal repository for the IBM Data Science Professional Certification Capstone Project
